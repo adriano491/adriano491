@@ -1,11 +1,14 @@
-###bem vindo ao meu perfil 😎
+## bem vindo ao meu perfil 😎
 
-me chamo Adriano LIsboa dos Santos
 
-  estudante.
 
-  faço curso de robotica na equipe mannaDoctorsMachines.
+neu nome é adriano lisboa dos santos
 
-  pratico futeboll e ciclismo nas hos vagas.
+   -estudante   
+   -faço curso de robotica na equipe DoctorsMachines  
+   -pratico esportes como musculação e futebol  
+   
+   aqui você pode falar comigo!   
+@adriano.lisboa.santos@escola.pr.gov.br
 
 ![](https://media.tenor.com/YebbLUmkg9YAAAAM/among-us.gif)
